@@ -1,2 +1,2 @@
-# sequomics
-innovate precisely.
+# sequømics
+> innovate precisely.
