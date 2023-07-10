@@ -1,2 +1,2 @@
-# sequømics
-> innovate precisely.
+# Sequømics Corporation
+> <i>innovate precisely</i>.
