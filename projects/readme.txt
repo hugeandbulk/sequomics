@@ -1,4 +1,4 @@
-1.0 — U framework
+1.0 — U framework, for the user interface
 2.0 — hairy & Co. with API
 3.0 — huge & bulk with API
 4.0 — ePay with API
