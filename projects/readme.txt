@@ -2,7 +2,7 @@
 2.0 — hairy & Co.
 3.0 — huge and bulk
 4.0 — ePay
-5.0 — 
+5.0 — "de" to work on regular reports, updates and suggestions.
 
 -------------------
 14/July/2023
